@@ -6,7 +6,7 @@
   "unity": "2021.1",
   "dependencies": 
   {
-    "https://github.com/AvatarMedical-RD/Unity-UI-Rounded-Corners.git"
+    "ai.avatarmedical.roundedcorners" : "https://github.com/AvatarMedical-RD/Unity-UI-Rounded-Corners.git"
   },
   "keywords": [
     "toolbar",
