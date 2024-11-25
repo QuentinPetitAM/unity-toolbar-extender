@@ -4,7 +4,10 @@
   "displayName": "Toolbar Extender",
   "description": "Extend the Unity Toolbar with your own Editor UI code.",
   "unity": "2021.1",
-  "dependencies": {},
+  "dependencies": 
+  {
+    "https://github.com/AvatarMedical-RD/Unity-UI-Rounded-Corners.git"
+  },
   "keywords": [
     "toolbar",
     "extender",
